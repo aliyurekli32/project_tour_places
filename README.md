@@ -1,4 +1,4 @@
-<p>Ali YÜREKLİ</p>
+
 
 # Project-001 : Tour Places (RP-01)
 
