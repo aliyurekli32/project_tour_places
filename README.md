@@ -1,5 +1,4 @@
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
+<p>Ali YÜREKLİ</p>
 
 # Project-001 : Tour Places (RP-01)
 
@@ -9,14 +8,14 @@ Project aims to create a tour places app.
 
 ## Problem Statement
 
-- We are adding a new project to our portfolios. So you and your colleagues have started to work on the project.
+- We are adding a new project to our portfolios. So we and our colleagues have started to work on the project.
 
 ## Project Skeleton
 
 ```
 001-Tour Project(folder)
 |
-|----readme.md         # Given to the students (Definition of the project)
+|----readme.md         
 SOLUTION
 ├── public
 │     └── index.html
@@ -47,7 +46,7 @@ SOLUTION
 
 ## Objective
 
-Build a Tour Project App using ReactJS.
+We will build a Tour Project App using ReactJS.
 
 ### At the end of the project, following topics are to be covered;
 
@@ -59,7 +58,7 @@ Build a Tour Project App using ReactJS.
 
 - ReactJS
 
-### At the end of the project, students will be able to;
+### At the end of the project, we will be able to;
 
 - improve coding skills within HTML & CSS & JS & ReactJS.
 
@@ -71,12 +70,12 @@ Build a Tour Project App using ReactJS.
 
 - Step 2: Build tour places app using [`data.js`](./data.js).
 
-- Step 4: Push your application into your own public repo on Github
+- Step 4: Push our application into your own public repo on Github
 
-- Step 5: Add project gif to your project and README.md file.
+- Step 5: Add project gif to our project and README.md file.
 
 ## Notes
 
-- You can add additional functionalities to your app.
+- In future we can add additional functionalities to our app.
 
 **<p align="center">&#9786; Happy Coding &#9997;</p>**
